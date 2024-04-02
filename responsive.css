@@ -1,0 +1,106 @@
+@media only screen and (max-width:600PX)
+{
+    .login-page{
+        position: static;
+         width: 90%;
+         padding: 5%;
+         margin-top: 20px;
+    }
+    .login-page h4{
+        font-size: 25px;
+        font-weight: bold;
+    }
+    input, select{
+        font-size: 15px;
+    }
+    .doctor-img{
+        display: none;
+    }
+    .color1, .blue, .color2, .color4{
+        text-align: center;
+    }
+    [class*=color3]{
+       display: none;
+    }
+    .table{
+        display: none;
+    }
+    .box3 .table2{
+        width: 70%;
+    }
+    .box4{
+        height: auto;
+    }
+    .float-left{
+        position: static;
+        float: none;
+        width: 90%;
+
+    }
+    .float-right{
+        position: static;
+        float: none;
+        width: 90%;
+        padding: 5%;
+    }
+    .float-right p{
+        position: static;
+        text-align: center;
+        
+    }
+    #h3{
+        position: static;
+    }
+    .student-img{
+        position: static;
+        width: 20%;
+    }
+    .logo{
+       display: none;
+    }
+    .some-text{
+        position: absolute;
+        text-align: center;
+        font-size: 10px;
+        top: 75%;
+        left: 100px;
+        margin-top: 14px;
+        line-height: 24px;
+    }
+    .quote{
+        position: relative;
+        width: 5%;
+        left: -25px;
+    }
+    .slider1, .slider{
+        position: static;
+    }
+    .content, h1 {
+        font-size: 15px;
+    }
+    .content strong{
+        font-size: 22px;
+    }
+    .box7 p{
+        font-size: 12px;
+    }
+    .box7 h3{
+        font-size: 20px;
+    }
+    .h3{
+        font-size: 12px;
+    }
+    .box4 h3{
+        text-align: center;
+    }
+    .box5{
+       flex-direction: column;
+       margin-bottom: 12px;
+    }
+    .box5 .content{
+        margin-bottom: 12px;
+    }
+    .box6{
+        width: 70%;
+    }
+}
